@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notesapp-dev-9c67c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767828764834:role/amplify-notesapp-dev-9c67c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767828764834:role/amplify-notesapp-dev-9c67c-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-notesapp-dev-9c67c-deployment",
+      "UnauthRoleName": "amplify-notesapp-dev-9c67c-unauthRole",
+      "StackName": "amplify-notesapp-dev-9c67c",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:767828764834:stack/amplify-notesapp-dev-9c67c/83a195a0-cbec-11ef-bbbb-06da153f71fd",
+      "AmplifyAppId": "dini5fpztsa34",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-notesapp-dev-9c67c-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "function": {
+        "notesapp746a111e": {
+          "deploymentBucketName": "amplify-notesapp-dev-9c67c-deployment",
+          "s3Key": "amplify-builds/notesapp746a111e-79704456346c36396b61-build.zip"
+        }
+      },
+      "auth": {
+        "notesapp": {}
+      },
+      "api": {
+        "api6d92518f": {}
+      }
+    }
+  }
+}
